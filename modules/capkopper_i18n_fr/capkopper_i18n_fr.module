@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the capKopper Multilingual - French feature.
+ */
+
+include_once 'capkopper_i18n_fr.features.inc';
