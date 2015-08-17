@@ -1,2 +1,2 @@
-# capkopper_i18n
+# capKopper Internationalization (i18n).
 Handles multilingual settings.
