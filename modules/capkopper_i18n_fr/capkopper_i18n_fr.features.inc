@@ -18,7 +18,6 @@ function capkopper_i18n_fr_ctools_plugin_api($module = NULL, $api = NULL) {
  */
 function capkopper_i18n_fr_fe_date_custom_date_formats() {
   $custom_date_formats = array();
-  $custom_date_formats['H:i'] = 'H:i';
   $custom_date_formats['d/m/Y - H:i'] = 'd/m/Y - H:i';
   $custom_date_formats['j F Y'] = 'j F Y';
   $custom_date_formats['j F Y - H:i'] = 'j F Y - H:i';

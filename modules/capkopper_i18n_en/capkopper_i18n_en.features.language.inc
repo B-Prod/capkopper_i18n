@@ -16,7 +16,7 @@ function capkopper_i18n_en_locale_default_languages() {
     'name' => 'English',
     'native' => 'English',
     'direction' => 0,
-    'enabled' => 0,
+    'enabled' => 1,
     'plurals' => 0,
     'formula' => '',
     'domain' => '',

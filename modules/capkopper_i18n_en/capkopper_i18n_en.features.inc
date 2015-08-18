@@ -14,6 +14,14 @@ function capkopper_i18n_en_ctools_plugin_api($module = NULL, $api = NULL) {
 }
 
 /**
+ * Implements hook_fe_date_custom_date_formats().
+ */
+function capkopper_i18n_en_fe_date_custom_date_formats() {
+  $custom_date_formats = array();
+  return $custom_date_formats;
+}
+
+/**
  * Implements hook_fe_date_locale_date_format().
  */
 function capkopper_i18n_en_fe_date_locale_date_format() {
