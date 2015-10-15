@@ -24,7 +24,7 @@ projects[i18nviews][download][branch] = "7.x-3.x"
 projects[i18nviews][download][revision] = "27e9809"
 
 ; Pathauto i18n
-projects[pathauto_i18n][version] = 1.3
+projects[pathauto_i18n][version] = 1.4
 projects[pathauto_i18n][subdir] = contrib
 
 projects[pathauto_i18n][patch][2387805] = https://www.drupal.org/files/issues/pathauto_i18n-do-not-clear-context-variable-2387805-1.patch
