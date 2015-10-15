@@ -27,8 +27,6 @@ projects[i18nviews][download][revision] = "27e9809"
 projects[pathauto_i18n][version] = 1.4
 projects[pathauto_i18n][subdir] = contrib
 
-projects[pathauto_i18n][patch][2387805] = https://www.drupal.org/files/issues/pathauto_i18n-do-not-clear-context-variable-2387805-1.patch
-
 ; Localization Update
 projects[l10n_update][type] = "module"
 projects[l10n_update][subdir] = "contrib"
